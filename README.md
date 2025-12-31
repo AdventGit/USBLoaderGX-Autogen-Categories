@@ -44,4 +44,5 @@ ReqInput-Normal
 ReqInput-Nunchuk
 ReqInput-Gamecube
 ReqInput-Classic
-ReqInput-Exotic```
+ReqInput-Exotic
+```
